@@ -453,6 +453,7 @@ footer {
   }
   /*4th article*/
   article:nth-of-type(4) {
+    margin-top: 9.8rem;
     margin-bottom: 10rem;
     .company-list {
       display: flex;
